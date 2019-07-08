@@ -1,0 +1,39 @@
+body {
+    background-color: #414140;
+
+    color: #ffffff;
+}
+
+* {
+    font-family: Phetsarath OT;
+}
+
+
+a {
+    color: #fffc00;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.block {
+    border: #fff solid thin;
+    padding: 25px;
+}
+
+.title {
+    color: #11ffcf;
+}
+
+.date {
+    color: #999;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.alert {
+    color: #ff3939;
+}
